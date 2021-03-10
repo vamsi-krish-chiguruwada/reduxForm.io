@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reduxForm.io/static/css/main.fd734570.chunk.css",
+    "main.js": "/reduxForm.io/static/js/main.11394e5d.chunk.js",
+    "main.js.map": "/reduxForm.io/static/js/main.11394e5d.chunk.js.map",
+    "runtime-main.js": "/reduxForm.io/static/js/runtime-main.31baa92e.js",
+    "runtime-main.js.map": "/reduxForm.io/static/js/runtime-main.31baa92e.js.map",
+    "static/js/2.f5153f27.chunk.js": "/reduxForm.io/static/js/2.f5153f27.chunk.js",
+    "static/js/2.f5153f27.chunk.js.map": "/reduxForm.io/static/js/2.f5153f27.chunk.js.map",
+    "static/js/3.3895f36a.chunk.js": "/reduxForm.io/static/js/3.3895f36a.chunk.js",
+    "static/js/3.3895f36a.chunk.js.map": "/reduxForm.io/static/js/3.3895f36a.chunk.js.map",
+    "index.html": "/reduxForm.io/index.html",
+    "static/css/main.fd734570.chunk.css.map": "/reduxForm.io/static/css/main.fd734570.chunk.css.map",
+    "static/js/2.f5153f27.chunk.js.LICENSE.txt": "/reduxForm.io/static/js/2.f5153f27.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.31baa92e.js",
+    "static/js/2.f5153f27.chunk.js",
+    "static/css/main.fd734570.chunk.css",
+    "static/js/main.11394e5d.chunk.js"
+  ]
+}
