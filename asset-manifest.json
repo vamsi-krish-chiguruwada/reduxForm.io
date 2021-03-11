@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/reduxForm.io/static/css/main.fd734570.chunk.css",
-    "main.js": "/reduxForm.io/static/js/main.11394e5d.chunk.js",
-    "main.js.map": "/reduxForm.io/static/js/main.11394e5d.chunk.js.map",
-    "runtime-main.js": "/reduxForm.io/static/js/runtime-main.31baa92e.js",
-    "runtime-main.js.map": "/reduxForm.io/static/js/runtime-main.31baa92e.js.map",
-    "static/js/2.f5153f27.chunk.js": "/reduxForm.io/static/js/2.f5153f27.chunk.js",
-    "static/js/2.f5153f27.chunk.js.map": "/reduxForm.io/static/js/2.f5153f27.chunk.js.map",
-    "static/js/3.3895f36a.chunk.js": "/reduxForm.io/static/js/3.3895f36a.chunk.js",
-    "static/js/3.3895f36a.chunk.js.map": "/reduxForm.io/static/js/3.3895f36a.chunk.js.map",
+    "main.js": "/reduxForm.io/static/js/main.75257173.chunk.js",
+    "main.js.map": "/reduxForm.io/static/js/main.75257173.chunk.js.map",
+    "runtime-main.js": "/reduxForm.io/static/js/runtime-main.5105d18e.js",
+    "runtime-main.js.map": "/reduxForm.io/static/js/runtime-main.5105d18e.js.map",
+    "static/js/2.8af5d7f1.chunk.js": "/reduxForm.io/static/js/2.8af5d7f1.chunk.js",
+    "static/js/2.8af5d7f1.chunk.js.map": "/reduxForm.io/static/js/2.8af5d7f1.chunk.js.map",
+    "static/js/3.58249e81.chunk.js": "/reduxForm.io/static/js/3.58249e81.chunk.js",
+    "static/js/3.58249e81.chunk.js.map": "/reduxForm.io/static/js/3.58249e81.chunk.js.map",
     "index.html": "/reduxForm.io/index.html",
     "static/css/main.fd734570.chunk.css.map": "/reduxForm.io/static/css/main.fd734570.chunk.css.map",
-    "static/js/2.f5153f27.chunk.js.LICENSE.txt": "/reduxForm.io/static/js/2.f5153f27.chunk.js.LICENSE.txt"
+    "static/js/2.8af5d7f1.chunk.js.LICENSE.txt": "/reduxForm.io/static/js/2.8af5d7f1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.31baa92e.js",
-    "static/js/2.f5153f27.chunk.js",
+    "static/js/runtime-main.5105d18e.js",
+    "static/js/2.8af5d7f1.chunk.js",
     "static/css/main.fd734570.chunk.css",
-    "static/js/main.11394e5d.chunk.js"
+    "static/js/main.75257173.chunk.js"
   ]
 }
